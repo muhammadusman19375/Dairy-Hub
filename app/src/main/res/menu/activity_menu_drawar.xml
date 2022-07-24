@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/idItem1"
+    android:title="Doctor"
+        android:icon="@drawable/doctor"/>
+    <item
+    android:id="@+id/idItem2"
+    android:title="Medicine"
+        android:icon="@drawable/syringe"/>
+    <item
+    android:id="@+id/idItem3"
+    android:title="Disease"
+        android:icon="@drawable/ic_medical"/>
+    <item
+    android:id="@+id/idItem4"
+    android:title="Fodder"
+        android:icon="@drawable/ic_grass"/>
+    <item
+    android:id="@+id/idItem5"
+    android:title="Breed"
+        android:icon="@drawable/breed"/>
+    <item
+        android:id="@+id/idItem6"
+        android:title="Insemination"
+        android:icon="@drawable/insemination"/>
+    <item
+        android:id="@+id/idItem7"
+        android:title="--------------------------------------------------" />
+    <item
+        android:id="@+id/idItem8"
+        android:title="Send Mail"
+        android:icon="@drawable/ic_baseline_email_24"/>
+    <item
+        android:id="@+id/idItem9"
+        android:title="Contact on       03123456789"
+        android:icon="@drawable/ic_phone"/>
+</menu>

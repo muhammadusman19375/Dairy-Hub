@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Dairy Hub</string>
+    <string name="Forgot_Password">Forgot Password? <i><font fgcolor='white'>Reset Password </font></i></string>
+    <string name="New_User">Do not have account? <i><font fgcolor='white'>Sign Up</font></i></string>
+    <string-array name="district">
+        <item>None</item>
+        <item>Punjab</item>
+        <item>Sindh</item>
+        <item>Islamabad</item>
+        <item>Balochistan</item>
+        <item>Gilgit-Baltistan</item>
+        <item>Khyber Pakhtunkhwa</item>
+        <item>Azad Jammu and Kashmir</item>
+        <item>Other Country</item>
+    </string-array>
+    <string-array name="fmd">
+        <item>None</item>
+        <item>Punjab</item>
+        <item>Sindh</item>
+        <item>Islamabad</item>
+        <item>Balochistan</item>
+        <item>Gilgit-Baltistan</item>
+        <item>Khyber Pakhtunkhwa</item>
+        <item>Azad Jammu and Kashmir</item>
+        <item>Other Country</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>

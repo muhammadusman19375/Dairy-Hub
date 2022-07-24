@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:background="@drawable/gradient_main">
+       <TableLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent">
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_span="3"
+               android:background="@drawable/fodder_heading"
+               android:gravity="center_horizontal"
+               android:paddingLeft="10dp"
+               android:paddingRight="10dp"
+               android:text="BREED CHARACTER"
+               android:textColor="@color/white"
+               android:textSize="35dp"
+               android:textStyle="bold" />
+
+           <RelativeLayout
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content">
+
+               <ProgressBar
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_centerInParent="true"
+                   android:id="@+id/progressBar"/>
+               <de.hdodenhof.circleimageview.CircleImageView
+                   android:id="@+id/images"
+                   android:layout_width="328dp"
+                   android:layout_height="186dp"
+                   android:layout_marginTop="24dp"
+                   android:layout_centerInParent="true" />
+           </RelativeLayout>
+           <androidx.constraintlayout.widget.ConstraintLayout
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               tools:layout_editor_absoluteX="15dp"
+               tools:layout_editor_absoluteY="68dp">
+               <TextView
+                   android:id="@+id/history"
+                   android:layout_width="316dp"
+                   android:layout_height="130dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"
+                   android:textColor="@color/black"
+                   android:textSize="15dp"
+                   app:layout_constraintBottom_toBottomOf="parent"
+                   app:layout_constraintEnd_toEndOf="parent"
+                   app:layout_constraintStart_toStartOf="parent"
+                   app:layout_constraintTop_toBottomOf="@+id/History"
+                   app:layout_constraintVertical_bias="1.0"
+                   app:layout_goneMarginTop="10dp" />
+
+               <TextView
+                   android:id="@+id/History"
+                   android:layout_width="101dp"
+                   android:layout_height="44dp"
+                   android:layout_marginTop="12dp"
+                   android:background="@drawable/foddervalue"
+                   android:paddingStart="25dp"
+                   android:paddingTop="10dp"
+                   android:text="History"
+                   android:textColor="@color/black"
+                   android:textSize="15dp"
+                   app:layout_constraintEnd_toEndOf="parent"
+                   app:layout_constraintHorizontal_bias="0.501"
+                   app:layout_constraintStart_toStartOf="parent"
+                   app:layout_constraintTop_toTopOf="parent" />
+           </androidx.constraintlayout.widget.ConstraintLayout>
+           <TableRow>
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_column="0"
+                   android:layout_marginTop="10dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"
+                   android:text="MASS (Weight)"
+                   android:textColor="@color/black"
+                   android:textSize="15dp" />
+
+               <TextView
+                   android:id="@+id/mass"
+                   android:layout_width="194dp"
+                   android:layout_height="wrap_content"
+                   android:layout_column="1"
+                   android:layout_marginTop="10dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"
+                   android:textColor="@color/black"
+                   android:textSize="15dp" />
+           </TableRow>
+           <TableRow>
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_column="0"
+                   android:layout_marginTop="10dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"
+                   android:text="HEIGHT"
+                   android:textColor="@color/black"
+                   android:textSize="15dp" />
+
+               <TextView
+                   android:id="@+id/height"
+                   android:layout_height="wrap_content"
+                   android:layout_column="1"
+                   android:layout_marginTop="10dp"
+                   android:textColor="@color/black"
+                   android:textSize="15dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"/>
+           </TableRow>
+           <TableRow>
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_column="0"
+                   android:layout_marginTop="10dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"
+                   android:text="COLOR"
+                   android:textColor="@color/black"
+                   android:textSize="15dp" />
+
+               <TextView
+                   android:id="@+id/color"
+                   android:layout_height="wrap_content"
+                   android:layout_width="194dp"
+                   android:layout_column="1"
+                   android:layout_marginTop="10dp"
+                   android:textColor="@color/black"
+                   android:textSize="15dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"/>
+           </TableRow>
+           <TableRow>
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_column="0"
+                   android:layout_marginTop="10dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"
+                   android:text="HORN STATUS"
+                   android:textColor="@color/black"
+                   android:textSize="15dp" />
+
+               <TextView
+                   android:id="@+id/horn"
+                   android:layout_height="wrap_content"
+                   android:layout_width="194dp"
+                   android:layout_column="1"
+                   android:layout_marginTop="10dp"
+                   android:textColor="@color/black"
+                   android:textSize="15dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"/>
+           </TableRow>
+           <TableRow>
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_column="0"
+                   android:layout_marginTop="10dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"
+                   android:text="USAGE"
+                   android:textColor="@color/black"
+                   android:textSize="15dp" />
+
+               <TextView
+                   android:id="@+id/use"
+                   android:layout_height="wrap_content"
+                   android:layout_column="1"
+                   android:layout_marginTop="10dp"
+                   android:textColor="@color/black"
+                   android:textSize="15dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"/>
+           </TableRow>
+           <TableRow>
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_column="0"
+                   android:layout_marginTop="10dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"
+                   android:text="OTHER NAMES"
+                   android:textColor="@color/black"
+                   android:textSize="15dp" />
+
+               <TextView
+                   android:id="@+id/name"
+                   android:layout_height="wrap_content"
+                   android:layout_column="1"
+                   android:layout_marginTop="10dp"
+                   android:textColor="@color/black"
+                   android:textSize="15dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"/>
+           </TableRow>
+           <TableRow>
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_column="0"
+                   android:layout_marginTop="10dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"
+                   android:text="ORIGIN"
+                   android:textColor="@color/black"
+                   android:textSize="15dp" />
+
+               <TextView
+                   android:id="@+id/origin"
+                   android:layout_height="wrap_content"
+                   android:layout_width="194dp"
+                   android:layout_column="1"
+                   android:layout_marginTop="10dp"
+                   android:background="@drawable/foddervalue"
+                   android:padding="10dp"
+                   android:textColor="@color/black"
+                   android:textSize="15dp" />
+           </TableRow>
+       </TableLayout>
+</ScrollView>

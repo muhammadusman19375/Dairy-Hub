@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fyp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FYP">
+        <activity
+            android:name=".activities.DoctorauthActivity"
+            android:exported="true" >
+
+        </activity>
+        <activity
+            android:name=".activities.NecessaryMediciansActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.PhoneNumberActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.OTPActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ChatListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.SetupProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.MedicineActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.VaccineActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.DiseasesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.inseminationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.BreedActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.ExampleActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.FodderActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.HomeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.SignUpActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.ChatActivity"
+            android:exported="true" />
+
+        <service
+            android:name=".utils.FirebaseMessageReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

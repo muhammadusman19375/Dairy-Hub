@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.LoginActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/gradient_splash">
+    <ImageView
+        android:layout_width="230dp"
+        android:layout_height="200dp"
+        android:src="@drawable/logo"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+        <EditText
+            android:id="@+id/et_email"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:hint="Enter Email"
+            android:background="@drawable/login"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:padding="10dp"
+            android:inputType="textEmailAddress"
+            android:drawableStart="@drawable/ic_baseline_email_24"
+            android:drawablePadding="10dp">
+        </EditText>
+        <EditText
+            android:id="@+id/et_password"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:hint="Enter Password"
+            android:background="@drawable/login"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:padding="10dp"
+            android:inputType="text"
+            android:drawableStart="@drawable/ic_lock"
+            android:drawablePadding="10dp">
+        </EditText>
+        <CheckBox
+            android:id="@+id/checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Show Password"
+            android:layout_marginLeft="55dp"
+            android:layout_marginTop="20dp"></CheckBox>
+        <TextView
+            android:id="@+id/tv_forgot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Forgot_Password"
+            android:textSize="15dp"
+            android:layout_marginLeft="90dp"
+            android:layout_marginTop="20dp"/>
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#516AEA"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/tv_new"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/New_User"
+        android:textSize="15dp"/>
+
+</LinearLayout>

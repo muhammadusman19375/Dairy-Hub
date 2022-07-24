@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable-xxxhdpi/drawable.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/attachment.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/border.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/border_buttons.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/breed_image.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/circle_green.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/fodder_heading.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/fodderseason.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/foddertype.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/foddervalue.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/gradient_home.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/gradient_main.xml" value="0.909375" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/gradient_splash.xml" value="0.25390625" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/ic_left_arrow.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/ingredients.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/login.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/my_button.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/season_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/drawable/shape1.xml" value="0.2203125" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout-v21/activity_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout-v21/activity_chat_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout-v21/activity_example.xml" value="0.1" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout-v21/activity_phone_number.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout-v21/item_sent.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout-v21/row_conversation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_breed.xml" value="0.22" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_chat_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_disease.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_diseases.xml" value="0.2" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_doctorauth.xml" value="0.18" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_example.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_example2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_fodder.xml" value="0.2" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_fooders.xml" value="0.22" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_ingredients.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_insemination.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_medicine.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_necessary_medicians.xml" value="0.25" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_phone_number.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_setup_profile.xml" value="0.22" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_symptoms.xml" value="0.22" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_vacc.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/activity_vaccine.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/bareseem.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/barlayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/breed.xml" value="0.2" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/content_scrolling.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/cow_record.xml" value="0.25" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/diseases_item_view.xml" value="0.42738589211618255" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/diseases_popup.xml" value="0.33" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/example.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/item_receive.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/item_sent.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/notification.xml" value="0.18" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/recyclerview_row.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/row_conversation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/slider_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/swipe_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/symptoms_item_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/layout/verification_dialog.xml" value="0.16" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/menu/activity_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/menu/activity_menu_drawar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/menu/fmd.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/menu/menu_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/FINE/Downloads/ModernLogin2-appsnipp.com/FYP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2101851851851852" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.20416666666666666" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
